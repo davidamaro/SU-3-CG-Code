@@ -19,9 +19,7 @@ The syntax is
     su3cg[{p1,q1},{nu1,I1},{lambda,0},{n1,I2},{p2,q2},{N1,I3}]
 
 Defining 
-$$
-k=\frac{1}{3}(p_1+2q_1+\lambda -p_2-2q_2) \tag{1}
-$$
+$$k=\frac{1}{3}(p_1+2q_1+\lambda -p_2-2q_2) \tag{1}$$
 the possible values of $N_1,I_3$ that will produce a non-zero reduced CG are
 
  1. $\vert I_2-I_1\vert \le I_3\le I_1+I_2$,
