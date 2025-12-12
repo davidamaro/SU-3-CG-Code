@@ -12,7 +12,11 @@ In addition to the dependence on $(p_1,q_1)$, $(\lambda,0)$ and $(p_2,q_2)$, the
 {(p_1,q_1) \atop {\nu_1; I_1}} \, 
 {(\lambda,0)\atop {n_1; I_2} }\Big\Vert 
 {(p_2,q_2)\atop N_1 ;I_3}\right\rangle$ 
-depends on occupation numbers $\nu_1, n_1$ and $N_1$, and on $\mathfrak{su}(2)$ quantum numbers $I_1,I_2$ and $I_3$.  
+depends on occupation numbers $\nu_1, n_1$ and $N_1$, and on $\mathfrak{su}(2)$ quantum numbers $I_1,I_2$ and $I_3$.
+
+**Notice that this is an incomplete value. You still need a SU2 CG. See equation 30 in the original paper.**
+The first term is the first occupation number. The second term is the angular momentum of the state.
+To compare against a GT pattern, observe that the first row is equal to $(2J,0)$ and the last row is $J-m$.
 
 The syntax is
 
